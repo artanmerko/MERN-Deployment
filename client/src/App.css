@@ -1,0 +1,25 @@
+.form-grouping {
+  display: inline-block ;
+  width : 50%
+}
+
+.pet-detail-item {
+  display: block;
+  font-size: large;
+}
+.App{
+  margin: 20px;
+}
+
+.form {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.btn{
+  margin-top: 10px;
+}
+
+.likes {
+  margin: 10px;
+}
