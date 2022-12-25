@@ -11,11 +11,13 @@ const PetDetail = (props) => {
     useEffect(
         () => {
             axios.get(`http://localhost:8000/api/pets/${id}`)
-            .then(res => {setThisPet(res.data.pet)
-                console.log(thisPet);})
+            .then(res => {
+                setThisPet(res.data.pet)
+                console.log(res.data.pet);
+            })
             .catch(err => console.log(err))
         },
-        [thisPet.name, thisPet.type, thisPet.description, id, thisPet]);
+        [id, thisPet]);
 
     const increment = (e) => {
         e.preventDefault()
