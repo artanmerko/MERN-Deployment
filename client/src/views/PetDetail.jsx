@@ -17,7 +17,7 @@ const PetDetail = (props) => {
             })
             .catch(err => console.log(err))
         },
-        [id, thisPet]);
+        [id]);
 
     const increment = (e) => {
         e.preventDefault()
