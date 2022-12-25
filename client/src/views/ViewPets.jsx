@@ -14,12 +14,15 @@ const ViewPets = (props) => {
             <h3 className='my-4 text-left ml-4'>These pets are looking for a good home</h3>
             <table className='table table-striped col-9 mx-auto my-5 border border-black'>
             <thead className='thead-dark'>
-                <th scope="col">Name</th>
-                <th scope='col'>Type</th>
-                <th scope ='col'>Actions</th>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope='col'>Type</th>
+                    <th scope ='col'>Actions</th>
+                </tr>
             </thead>
+            <tbody>
             {pets.map((pet, index) => (
-            <tr scope ="row" key={index}>
+            <tr key={index}>
                 <td>{pet.name}</td>
                 <td>{pet.type}</td>
                 <td>
@@ -32,6 +35,7 @@ const ViewPets = (props) => {
                 </td>
             </tr>
             ))}
+            </tbody>
             </table>
         </div>
     )
