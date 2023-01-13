@@ -1,6 +1,4 @@
 # petShelter
-## MERN EXAM
-
 ### A MERN stack application is a web application that uses the following technologies:
 
 #### MongoDB: A NoSQL database used to store the application's data.
