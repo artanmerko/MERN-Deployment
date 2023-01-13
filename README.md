@@ -1,6 +1,6 @@
 # petShelter
 ## MERN EXAM
-
+```
 A MERN stack application is a web application that uses the following technologies:
 
 MongoDB: A NoSQL database used to store the application's data.
@@ -24,3 +24,4 @@ The front-end then updates the user interface to reflect the new data.
 MERN stack is a powerful and flexible way to build full-stack web applications, and it offers many benefits like one language throughout the stack, faster development and deployment, and a large and active community.
 
 It's important to note that this is a high-level overview of how a MERN stack application works and it's just one way to build a full-stack web application. There are many other technologies and frameworks you can use to build a full-stack web application.
+```
