@@ -1,10 +1,11 @@
 # petShelter App
 ## Video Demo:  [URL](https://www.youtube.com/watch?v=RDYLfChAQ-E)
 ### Description
+
 A MERN stack application is a web application that uses the following technologies:
 
 MongoDB: A NoSQL database used to store the application's data.
- Express: A framework for building web applications on top of Node.js.
+Express: A framework for building web applications on top of Node.js.
 React: A JavaScript library for building user interfaces.
 Node.js: A JavaScript runtime used to run the application's server-side code.
 
