@@ -27,3 +27,17 @@ Here's a basic example of how the different parts of a MERN stack application mi
 
 *It's important to note that this is a high-level overview of how a MERN stack application works and it's just one way to build a full-stack web application. There are many other technologies and frameworks you can use to build a full-stack web application.*
 
+![sc-1](https://user-images.githubusercontent.com/97398977/212418506-3952c66f-bba9-49dc-8b90-de18b15669b1.png)
+
+![sc-4](https://user-images.githubusercontent.com/97398977/212418581-1e3ef055-fa10-41ff-a222-8f4f7e43fad7.png)
+
+![sc-5](https://user-images.githubusercontent.com/97398977/212418705-54c9e6bb-0b41-4f36-a7d2-7db46d3dbc45.png)
+
+![sc-6](https://user-images.githubusercontent.com/97398977/212418701-204f71b1-ea48-4a0f-a8b4-5fc10e6d81cd.png)
+
+![sc-7](https://user-images.githubusercontent.com/97398977/212418703-b269a83f-0798-4c38-a8e7-31113923a699.png)
+
+![sc-8](https://user-images.githubusercontent.com/97398977/212418865-e6be19ea-7df7-4388-b4f3-6617a71d34d4.png)
+
+![sc-9](https://user-images.githubusercontent.com/97398977/212418898-10731134-8abc-43c6-a554-7a8539060ba3.png)
+
