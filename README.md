@@ -5,7 +5,7 @@
 ### React: A JavaScript library for building user interfaces.
 ### Node.js: A JavaScript runtime used to run the application's server-side code.
 
-MERN is an acronym for MongoDB, Express, React, and Node.js, which are all JavaScript-based technologies. Together, these technologies provide a powerful and flexible way to build web applications.
+#### MERN is an acronym for MongoDB, Express, React, and Node.js, which are all JavaScript-based technologies. Together, these technologies provide a powerful and flexible way to build web applications.
 
 Here's a basic example of how the different parts of a MERN stack application might fit together:
 
