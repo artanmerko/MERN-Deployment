@@ -1,13 +1,13 @@
 # petShelter
 ## MERN EXAM
 
-A MERN stack application is a web application that uses the following technologies:
-```
-MongoDB: A NoSQL database used to store the application's data.
-Express: A framework for building web applications on top of Node.js.
-React: A JavaScript library for building user interfaces.
-Node.js: A JavaScript runtime used to run the application's server-side code.
-```
+### A MERN stack application is a web application that uses the following technologies:
+
+#### MongoDB: A NoSQL database used to store the application's data.
+#### Express: A framework for building web applications on top of Node.js.
+#### React: A JavaScript library for building user interfaces.
+#### Node.js: A JavaScript runtime used to run the application's server-side code.
+
 MERN is an acronym for MongoDB, Express, React, and Node.js, which are all JavaScript-based technologies. Together, these technologies provide a powerful and flexible way to build web applications.
 
 Here's a basic example of how the different parts of a MERN stack application might fit together:
